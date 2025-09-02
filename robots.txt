@@ -1,0 +1,5 @@
+User-Agent: *
+Allow: /
+Disallow: /images/
+
+Sitemap: https://www.goblincoin.club/sitemap.xml
